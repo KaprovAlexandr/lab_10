@@ -1,0 +1,11 @@
+{
+  "products": [
+{
+ "name": ,
+ "price": ,
+ "available": ,
+ "weight": 
+},
+
+  ]
+ }
